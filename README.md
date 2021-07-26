@@ -34,11 +34,17 @@ The following dependencies needed to be installed before running the application
 
 ---
 
-## Application Process
+## Visualization methods
 
-Detail process:
+  #### hvplot method
+Display an interactively explorable Bokeh plot with panning, zooming, hovering, and clickable/selectable legends
 
-![markdown_image](https://github.com/JuneB2021/Module-2-Challenge/blob/main/markdown_image/Process.png)
+![markdown_image](https://github.com/JuneB2021/Module-2-Challenge/blob/main/markdown_image/Bar Chart.png)
+
+  #### MapBox method
+Display interactive maps for geospatial data, or location-based data with ability to pan, zoom in / out 
+
+![markdown_image](https://github.com/JuneB2021/Module-2-Challenge/blob/main/markdown_image/Map.png)
 
 ---
 
