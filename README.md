@@ -17,19 +17,19 @@ This project leverages python 3.7 with the following packages:
 
 The following dependencies needed to be installed before running the application.
     
-   ### PyViz packages
+   #### PyViz packages
     conda install -c plotly plotly=4.13.
     conda install -c pyviz hvplot
     conda install -c conda-forge nodejs=12
 
-   ### JupyterLab Dependencies
+   #### JupyterLab Dependencies
     conda install -c conda-forge jupyterlab=2
     jupyter labextension install jupyterlab-plotly@4.13.0 --no-build
     jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.13.0 --no-build
     jupyter labextension install @pyviz/jupyterlab_pyviz --no-build
     jupyter lab build
 
-  ### Set up the Mapbox API
+  #### Set up the Mapbox API
     Register for a public Mapbox API access token 
 
 ---
