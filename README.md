@@ -44,7 +44,7 @@ Display an interactively explorable Bokeh plot with panning, zooming, hovering, 
   #### MapBox method
 Display interactive maps for geospatial data, or location-based data with ability to pan, zoom in / out 
 
-![markdown_image](https://github.com/JuneB2021/Module-2-Challenge/blob/main/markdown_image/Map.png)
+![markdown_image](https://github.com/JuneB2021/Module-6-Challenge/blob/main/markdown_image/Map.PNG)
 
 ---
 
